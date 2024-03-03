@@ -2,4 +2,4 @@
 - 👀 I’m interested in games, sports, music, food and travelling
 - 🌱 I’m vegetarian 
 -  I’m currently enrolled onto NorthCoders bootcamp studying software development
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm half Indian and half Irish :)
