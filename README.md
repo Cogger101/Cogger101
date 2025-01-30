@@ -3,5 +3,5 @@
 -  Tech Consultant
 
 
-My Portfolio - https://cogger101.github.io/web-project/ 
+My Portfolio (in progress) - https://cogger101.github.io/web-project/ 
 
