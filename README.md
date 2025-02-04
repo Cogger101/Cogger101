@@ -20,11 +20,15 @@
 
 # Hobbies
 
-🏈 🏀 ⚽ ⚾ 🎾 🎱 🏉 🎳 ⛳ 🚵 🚴🎮🎼
-I love to travel, gaming,  in to all things sports and food is life
+Some of my favourite things to do outside of developing are:
+- Travelling🌎
+- Gaming 🎮
+- Running, Rugby🏉, Football⚽ and Cycling🚵
+- Attending concerts and playing guitar🎼
+- and food is life 🍜
 
 # 📫Get In Touch
 
 - My Portfolio (in progress) - https://cogger101.github.io/web-project/ 
-- Linkedin
+- Linkedin - https://www.linkedin.com/in/sean-coughlan-48247b299/?originalSubdomain=uk
 
