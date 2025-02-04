@@ -21,7 +21,6 @@
 
 # 📝 Currently Learning
 <p>
-  Java
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </p>
 
