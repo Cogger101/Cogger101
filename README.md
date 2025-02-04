@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=1DF70B&width=435&lines=Sean+Coughlan+-+Software+Engineer!!)](https://git.io/typing-svg)
+[![Sean Coughlan Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=1DF70B&width=435&lines=Sean+Coughlan+-+Software+Engineer)](https://git.io/typing-svg)
 
 
 # 🙋 About Me
