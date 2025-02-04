@@ -1,7 +1,7 @@
 
 
 # 🙋 About Me
-- 👋 Hi, I’m @Cogger101 aka Sean
+- Hi 👋, I’m @Cogger101 aka Sean
 - I'm half Indian and half Irish
 -  Tech Consultant
   
