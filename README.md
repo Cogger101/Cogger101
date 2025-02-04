@@ -1,11 +1,12 @@
 
 
-# About Me
+# 🙋 About Me
 - 👋 Hi, I’m @Cogger101 aka Sean
+- I'm half Indian and half Irish
 -  Tech Consultant
   
 
-# My Tech Stack 
+# 💻 My Tech Stack 
 <p align="left">
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -16,6 +17,11 @@
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+</p>
+
+# 📝 Currently Learning
+<p>
+  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </p>
 
 # Hobbies
