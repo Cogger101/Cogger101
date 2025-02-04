@@ -1,4 +1,4 @@
-
+![Sean Coughlan - Software Engineer](https://github.com/3ixas/3ixas/blob/main/Black%20Modern%20LinkedIn%20Banner.png?raw=true)
 
 # 🙋 About Me
 - Hi 👋, I’m @Cogger101 aka Sean
