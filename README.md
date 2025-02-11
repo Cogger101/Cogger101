@@ -3,7 +3,7 @@
 
 # 🙋 About Me
 - Hi 👋, I’m @Cogger101 aka Sean
-- I'm half Indian and half Irish
+- I'm half-Indian and half-Irish
 -  Tech Consultant
   
 
@@ -27,16 +27,16 @@
 
 # Hobbies
 
-Some of my favourite things to do outside of developing are:\
+Some of my favorite things to do outside of developing are:\
 🌎 Travelling\
 🎮 Gaming \
 🏃 Running, Rugby🏉, Football⚽ and Cycling🚵\
 🎼 Attending concerts and playing guitar\
-🍜 and food is life \
+🍜 and food is life 
 
 # 📫Get In Touch
 
-- My Portfolio (in progress) : https://cogger101.github.io/web-project/ 
+- My Portfolio (in progress): https://cogger101.github.io/web-project/ 
 - Linkedin: https://www.linkedin.com/in/sean-coughlan-48247b299/?originalSubdomain=uk
 
 
