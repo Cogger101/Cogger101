@@ -37,5 +37,5 @@ Some of my favourite things to do outside of developing are:
 # 📫Get In Touch
 
 - My Portfolio (in progress) - https://cogger101.github.io/web-project/ 
-- Linkedin - https://www.linkedin.com/in/sean-coughlan-48247b299/?originalSubdomain=uk
+- ![image](https://github.com/user-attachments/assets/4b547d29-ec76-4a47-8ced-132d4fdbfefb) Linkedin : https://www.linkedin.com/in/sean-coughlan-48247b299/?originalSubdomain=uk
 
