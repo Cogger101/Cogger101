@@ -4,7 +4,7 @@
 # 🙋 About Me
 - Hi 👋, I’m @Cogger101 aka Sean
 - I'm half-Indian and half-Irish
--  Tech Consultant
+- Tech Consultant
   
 
 # 💻 My Tech Stack 
@@ -31,13 +31,18 @@ Some of my favorite things to do outside of developing are:\
 🌎 Travelling\
 🎮 Gaming \
 🏃 Running, Rugby🏉, Football⚽ and Cycling🚵\
-🎼 Attending concerts and playing guitar\
+🎼 Attending gigs/concerts and playing guitar\
 🍜 and food is life 
 
 # 📫Get In Touch
 
 - My Portfolio (in progress): https://cogger101.github.io/web-project/ 
 - Linkedin: https://www.linkedin.com/in/sean-coughlan-48247b299/?originalSubdomain=uk
-
+ <a target="_blank" href="https://cogger101.github.io/web-project/" style="display: inline-block;">
+    <img  src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="myPortfolio" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/sean-coughlan-48247b299/?originalSubdomain=uk" style="display: inline-block;">
+    <img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
 
