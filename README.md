@@ -38,9 +38,9 @@ Some of my favorite things to do outside of developing are:\
 
 - My Portfolio (in progress): https://cogger101.github.io/web-project/ 
 - Linkedin: https://www.linkedin.com/in/sean-coughlan-48247b299/?originalSubdomain=uk
-<a target="_blank" href="https://cogger101.github.io/web-project/" style="display: inline-block;">
-    <div style="width: 200px; height: 50px; background-color: #800080;"></div>
-</a>
+  <a target="_blank" href="https://cogger101.github.io/web-project/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="myPortfolio" />
+  </a>
   <a target="_blank" href="https://www.linkedin.com/in/sean-coughlan-48247b299/?originalSubdomain=uk" style="display: inline-block;">
     <img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
