@@ -3,6 +3,9 @@
 
 # 🙋 About Me
 - Hi 👋, I’m @Cogger101 aka Sean
+- Love nature and outdoors
+- Enjoy learning and putting those learning into practice
+- That feeling you get after solving a problem
 - I'm half-Indian and half-Irish
 - Tech Consultant
   
