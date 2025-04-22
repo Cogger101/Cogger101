@@ -3,7 +3,7 @@
 
 # 🙋 About Me
 - Hello there 👋, I’m @Cogger101 aka Sean
-- I'm Currently a Tech Consultant
+- I'm currently a Tech Consultant
 - A background in Facilities and Project management, I have transitioned into the world of tech looking to combine my previous experience with the passion I have for technology
 - Enjoy learning and putting those learnings into practice
 - I'm adaptable and love problem-solving
