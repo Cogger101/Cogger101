@@ -3,14 +3,11 @@
 
 # 🙋 About Me
 - Hello there 👋, I’m @Cogger101 aka Sean
-- A background in Facilities and Project management I have transitioned into the world of tech looking to combine my previous experience with the passion I have for technology
+- I'm Currently a Tech Consultant
+- A background in Facilities and Project management, I have transitioned into the world of tech looking to combine my previous experience with the passion I have for technology
 - Enjoy learning and putting those learnings into practice
-- That feeling you get after solving a problem
-- Love nature and outdoors
-- I'm half-Indian and half-Irish
-- Tech Consultant
+- I'm adaptable and love problem-solving
   
-
 # 💻 My Tech Stack 
 <p align="left">
   <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
